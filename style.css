@@ -1,0 +1,9 @@
+body {
+    background-color: antiquewhite;
+}
+
+#container {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
